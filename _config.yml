@@ -28,7 +28,7 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+  social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
@@ -43,9 +43,9 @@ projects:
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+    website: https://yinggwan.github.io/
   # youtube: your_username
-
+    GitHub：https://yinggwan.github.io/
 topics:
   - name: CSS
     web_url: https://yinggwan.github.io/

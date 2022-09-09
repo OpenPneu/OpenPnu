@@ -1,2 +1,2 @@
-Welcome to OpenPnu page, this project is designed by //
-OpenPnu is going to be update soon
+Welcome to OpenPneu page, this project is designed by //
+OpenPneu is going to be update soon

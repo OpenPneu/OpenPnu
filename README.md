@@ -1,2 +1,2 @@
-Welcome to OpenPneu page, this project is designed by //
+Welcome to OpenPneu page, 
 OpenPneu is going to be update soon
